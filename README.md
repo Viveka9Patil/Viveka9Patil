@@ -35,9 +35,6 @@ Tech: Python, Streamlit, Machine Learning | Status: ✅ Complete
 - ARMY_CMS: Python-based content management system
 - Portfolio expanding with variant analysis and drug discovery ML projects
 
-## 📊 GitHub Stats
-
-![Viveka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viveka9Patil&show_icons=true&theme=radical&hide_border=true)
 
 ## 🎓 Background
 
